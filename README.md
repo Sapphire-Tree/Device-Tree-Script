@@ -1,4 +1,3 @@
-Device Trees Script
 ## Clone Device Trees
 
 ```bash
