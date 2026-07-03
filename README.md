@@ -1,5 +1,5 @@
 Device Trees Script
-## 📥 Clone Device Trees
+## Clone Device Trees
 
 ```bash
 # Clone Device Trees for Sapphire
