@@ -22,6 +22,12 @@ git clone --depth 1 -b lineage-23.2 https://github.com/Sapphire-Tree/android_har
 rm -rf hardware/dolby
 git clone --depth 1 https://github.com/Sapphire-Tree/hardware_dolby hardware/dolby
 
+rm -rf device/xiaomi/miuicamera-sapphire
+git clone --depth 1 https://github.com/Sapphire-Tree/device_xiaomi_miuicamera-sapphire device/xiaomi/miuicamera-sapphire
+
+rm -rf vendor/xiaomi/miuicamera-sapphire
+git clone --depth 1 https://github.com/Sapphire-Tree/vendor_xiaomi_miuicamera-sapphire vendor/xiaomi/miuicamera-sapphire
+
 echo "============================"
 echo "Device Trees cloned successfully"
 echo "============================"
